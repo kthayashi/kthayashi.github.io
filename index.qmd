@@ -1,11 +1,19 @@
 ---
-title: "kthayashi"
+title: Kenji Hayashi
+image: img/headshot.jpg
+image-alt: headshot
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: Contact
+      href: mailto:kthayashi@ucla.edu
+    - text: GitHub
+      href: https://github.com/kthayashi
+    - text: GitLab
+      href: https://gitlab.com/kthayashi
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kthayashi
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello there! My name is Kenji Hayashi - I'm a Ph.D. candidate in the Department of Ecology of Evolutionary Biology at University of California, Los Angeles.
