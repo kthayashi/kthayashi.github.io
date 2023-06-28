@@ -1,19 +1,29 @@
 ---
 title: Kenji Hayashi
 image: img/headshot.jpg
-image-alt: headshot
+image-alt: Headshot
 about:
   template: trestles
   image-shape: rounded
   links:
-    - text: Contact
+    - text: "{{< fa envelope >}} Contact"
       href: mailto:kthayashi@ucla.edu
-    - text: GitHub
+      aria-label: Contact
+    - text: "{{< fa brands github >}} GitHub"
       href: https://github.com/kthayashi
-    - text: GitLab
+      aria-label: GitHub
+    - text: "{{< fa brands gitlab >}} GitLab"
       href: https://gitlab.com/kthayashi
-    - text: LinkedIn
+      aria-label: GitLab
+    - text: "{{< fa brands google >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=EQaU-9wAAAAJ
+      aria-label: Google Scholar
+    - text: "{{< fa brands linkedin >}} LinkedIn"
       href: https://www.linkedin.com/in/kthayashi
+      aria-label: LinkedIn
+toc: false
 ---
 
-Hello there! My name is Kenji Hayashi - I'm a Ph.D. candidate in the Department of Ecology of Evolutionary Biology at University of California, Los Angeles.
+# Hello there!
+
+My name is Kenji Hayashi - I'm a Ph.D. candidate in the Department of Ecology of Evolutionary Biology at University of California, Los Angeles.
