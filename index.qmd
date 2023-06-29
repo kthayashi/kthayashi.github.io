@@ -1,6 +1,6 @@
 ---
 title: Kenji Hayashi
-subtitle: "(he/him/his) [{{< fa volume-high title='Hear my name on NameDrop' aria-label='Hear my name on NameDrop' >}}](https://namedrop.io/kenjihayashi){target='_blank'}"
+subtitle: "(he/him/his) [{{< fa volume-high title='Hear my name on NameDrop' label='Hear my name on NameDrop' >}}](https://namedrop.io/kenjihayashi){target='_blank'}"
 image: img/headshot.jpg
 image-alt: Headshot
 about:
