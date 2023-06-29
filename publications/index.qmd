@@ -1,0 +1,107 @@
+---
+title: Publications
+---
+
+:::{style="font-size:small;"}
+&ast; indicates equal contribution  
+Open Access articles are labeled as OA
+:::
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+
+# Load packages
+library(bib2df)
+library(yaml)
+
+# Load bibtex file as data frame
+bib.df <- bib2df(here::here("data/mypubs.bib"))
+
+# Load auxiliary data in yaml file as list
+aux.yaml <- read_yaml(here::here("data/mypubs-aux.yaml"))
+
+# Extract auxiliary fields
+aux.fields <- unique(unlist(lapply(aux.yaml$ARTICLE, function(x) names(x[[1]]))))
+
+# Construct data frame to hold auxiliary info
+aux.df <- as.data.frame(
+  matrix(NA, nrow = length(aux.yaml$ARTICLE), ncol = length(aux.fields) + 2,
+         dimnames = list(NULL, c("CATEGORY", "BIBTEXKEY", aux.fields)))
+)
+
+# Parse article info
+aux.df$CATEGORY <- "ARTICLE"
+for (i in 1:length(aux.yaml$ARTICLE)) {
+  key <- names(aux.yaml$ARTICLE[[i]])
+  article.list <- aux.yaml$ARTICLE[[i]][[1]]
+  article.df <- as.data.frame(article.list)
+  aux.df[i, names(article.df)] <- 
+    article.df[ , na.omit(match(aux.fields, names(article.df)))]
+  aux.df$BIBTEXKEY[i] <- key
+}
+
+# Merge bib and aux data frames
+bib <- merge(bib.df, aux.df)
+
+# Create content by looping through bib
+for (i in 1:nrow(bib)) {
+  # Extract vector of authors
+  authors <- bib$AUTHOR[[i]]
+  # Shorten author names
+  lastname <- gsub(",.*", "", authors)
+  givenname <- gsub("[^A-Z]", "", gsub(".*,", "", authors))
+  auths <- paste(lastname, givenname, sep = ", ")
+  # Replace special characters manually
+  # Goal: eventually find a way to automate this
+  auths <- gsub("{\\'a}", "á", auths, fixed = TRUE)
+  auths <- gsub("{\\u g}", "ğ", auths, fixed = TRUE)
+  auths <- gsub("{\\'i}", "í", auths, fixed = TRUE)
+  auths <- gsub("{", "", auths, fixed = TRUE)
+  auths <- gsub("}", "", auths, fixed = TRUE)
+  # Bold my name
+  auths <- gsub("Hayashi, KT", "**Hayashi, KT**", auths, fixed = TRUE)
+  # Indicate equal contribution, if applicable
+  if (!is.na(bib$Authors_Equal[i])) {
+    auths[eval(parse(text = bib$Authors_Equal[i]))] <- 
+      paste0(auths[eval(parse(text = bib$Authors_Equal[i]))], "&ast;")
+  }
+  
+  # Produce output
+  cat("<div id='publication-list' class='content'> ", 
+      rev(1:nrow(bib))[i], ". ", 
+      paste(auths, collapse = ", "), 
+      paste0(". (", bib$YEAR[i], ")"),
+      paste0(". *", bib$JOURNAL[i], "*"),
+      paste0(", ", bib$VOLUME[i]),
+      paste0(", ", bib$PAGES[i]),
+      ".",
+      "<p> ",
+      if (!is.na(bib$Published[i])) {
+        if (bib$Published_OA[i] == TRUE) {
+          paste0("<a class='publink' href='", bib$Published[i], "' target='_blank'>
+                 {{< fa regular file-lines title='Article' label='Article' >}} Article (OA)
+                 </a>")
+        } else {
+          paste0("<a class='publink' href='", bib$Published[i], "' target='_blank'>
+                 {{< fa regular file-lines title='Article' label='Article' >}} Article
+                 </a>")
+        }
+      },
+      if (!is.na(bib$Data[i])) {
+        paste0("<a class='publink' href='", bib$Data[i], "' target='_blank'>
+               {{< fa solid database title='Data' label='Data' >}} Data
+               </a>")
+      },
+      if (!is.na(bib$Code[i])) {
+        paste0("<a class='publink' href='", bib$Code[i], "' target='_blank'>
+               {{< fa solid code title='Code' label='Code' >}} Code
+               </a>")
+      },
+      "</p> ",
+      "</div> ",
+      sep = "")
+}
+```

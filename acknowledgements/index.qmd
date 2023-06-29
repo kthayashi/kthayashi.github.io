@@ -1,0 +1,9 @@
+---
+title: Acknowledgements
+---
+
+- The format of the [Publications](/publications) page was inspired by [Drew Dimmery's setup](https://ddimmery.com/posts/quarto-website/){target="_blank"} and the [Wowchemy Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic){target="_blank"}.
+
+## References
+
+- Drew Dimmery. 2022. “Quarto for an Academic Website.” May 11, 2022. [https://ddimmery.com/posts/quarto-website](){target="_blank"}.
