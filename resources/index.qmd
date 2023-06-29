@@ -1,0 +1,13 @@
+---
+title: "Resources"
+---
+
+Over the years, I've bookmarked far too many resources (ebooks, websites, blog posts, etc.) that I might want to refer back to at some point but can never seem to find when I need them. Rather than continuing to file these resources away in a corner of my web browser, I figured I could start fresh here and compile a living, running list of resources, both for myself and for anyone else who happens to come across this page. Please feel free to suggest any additions to this list by opening an issue on the GitHub repo for this website.
+
+**Thank you to all the wonderful people out there who created these resources!**
+
+## Web development
+
+- [Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/){target="_blank"} by Sam Csik
+- [Customizing Quarto Websites](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){target="_blank"} by Sam Csik
+- [Adding a blog to your existing Quarto website](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/){target="_blank"} by Sam Csik
