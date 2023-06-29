@@ -1,5 +1,6 @@
 ---
 title: Kenji Hayashi
+subtitle: "(he/him/his) [{{< fa volume-high title='Hear my name on NameDrop' aria-label='Hear my name on NameDrop' >}}](https://namedrop.io/kenjihayashi){target='_blank'}"
 image: img/headshot.jpg
 image-alt: Headshot
 about:
@@ -24,6 +25,16 @@ about:
 toc: false
 ---
 
-# Hello there!
+## Greetings!
 
-My name is Kenji Hayashi - I'm a Ph.D. candidate in the Department of Ecology of Evolutionary Biology at University of California, Los Angeles.
+My name is Kenji Hayashi - I'm a Ph.D. candidate in the Department of Ecology and Evolutionary Biology at University of California, Los Angeles.
+
+I'm a plant community ecologist and data scientist striving to disentangle how plant communities are jointly shaped by the abiotic environment (e.g. climate, soil) and biotic interactions (e.g. competition) across spatial scales. I'm also passionate about evidence-based approaches to STEM and data science education.
+
+### Education
+
+**PhD, Ecology and Evolutionary Biology** | 2018 - Present    
+University of California, Los Angeles
+
+**BS, Biology** | 2014 - 2018   
+Brown University
