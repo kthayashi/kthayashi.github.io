@@ -47,6 +47,7 @@ for (i in 1:length(aux.yaml$ARTICLE)) {
 bib <- merge(bib.df, aux.df)
 
 # Create content by looping through bib
+cat("<div id='publication-list'>")
 for (i in 1:nrow(bib)) {
   # Extract vector of authors
   authors <- bib$AUTHOR[[i]]
@@ -70,7 +71,7 @@ for (i in 1:nrow(bib)) {
   }
   
   # Produce output
-  cat("<div id='publication-list' class='content'> ", 
+  cat("<div id='publication-list-item'> ", 
       rev(1:nrow(bib))[i], ". ", 
       paste(auths, collapse = ", "), 
       paste0(". (", bib$YEAR[i], ")"),
@@ -82,26 +83,23 @@ for (i in 1:nrow(bib)) {
       if (!is.na(bib$Published[i])) {
         if (bib$Published_OA[i] == TRUE) {
           paste0("<a class='publink' href='", bib$Published[i], "' target='_blank'>
-                 {{< fa regular file-lines title='Article' label='Article' >}} Article (OA)
-                 </a>")
+                 {{< fa regular file-lines title='Article' label='Article' >}} Article (OA)</a>")
         } else {
           paste0("<a class='publink' href='", bib$Published[i], "' target='_blank'>
-                 {{< fa regular file-lines title='Article' label='Article' >}} Article
-                 </a>")
+                 {{< fa regular file-lines title='Article' label='Article' >}} Article</a>")
         }
       },
       if (!is.na(bib$Data[i])) {
         paste0("<a class='publink' href='", bib$Data[i], "' target='_blank'>
-               {{< fa solid database title='Data' label='Data' >}} Data
-               </a>")
+               {{< fa solid database title='Data' label='Data' >}} Data</a>")
       },
       if (!is.na(bib$Code[i])) {
         paste0("<a class='publink' href='", bib$Code[i], "' target='_blank'>
-               {{< fa solid code title='Code' label='Code' >}} Code
-               </a>")
+               {{< fa solid code title='Code' label='Code' >}} Code</a>")
       },
       "</p> ",
       "</div> ",
       sep = "")
 }
+cat("</div> ")
 ```
