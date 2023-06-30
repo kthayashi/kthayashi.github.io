@@ -6,6 +6,10 @@ Over the years, I've bookmarked far too many resources (ebooks, websites, blog p
 
 **Thank you to all the wonderful people out there who created these resources!**
 
+## Reproducible research
+
+- [Quarto](https://quarto.org/){target="_blank"} by Posit
+
 ## Web development
 
 - [Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/){target="_blank"} by Sam Csik
