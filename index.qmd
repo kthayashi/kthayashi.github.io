@@ -33,9 +33,9 @@ toc: false
 
 ## Greetings!
 
-My name is Kenji Hayashi - I'm a PhD candidate in the Department of Ecology and Evolutionary Biology at University of California, Los Angeles.
+My name is Kenji Hayashi - I'm a PhD candidate in the Department of Ecology and Evolutionary Biology at the University of California, Los Angeles.
 
-I'm a plant community ecologist and data scientist striving to understand how plant communities and distributions are jointly shaped by the abiotic environment (e.g. climate, soil) and biotic interactions (e.g. competition). I'm also passionate about R, statistics, and evidence-based approaches to STEM education.
+I'm a plant community ecologist and data scientist striving to understand how plant communities and distributions are jointly shaped by the abiotic environment (e.g. climate, soil) and biotic interactions (e.g. competition). I'm also passionate about R, statistics, open/reproducible science, and evidence-based approaches to STEM education.
 
 ### Education
 

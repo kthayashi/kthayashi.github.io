@@ -1,5 +1,5 @@
 ---
-title: Acknowledgements
+title: Acknowledgments
 ---
 
 - The official [Quarto documentation](https://quarto.org/docs/guide/) and Sam Csik's [tutorial on creating Quarto websites](https://ucsb-meds.github.io/creating-quarto-websites/) were both very helpful for getting started building this website.

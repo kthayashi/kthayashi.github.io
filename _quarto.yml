@@ -7,15 +7,15 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: publications
+      - href: publications/index.qmd
         text: Publications
-      - href: resources
+      - href: resources/index.qmd
         text: Resources
   page-footer:
-    center: "[License goes here] | [Acknowledgements](/acknowledgements)"
+    center: "[License]() | [Acknowledgments](/acknowledgments/index.qmd)"
 
 format:
   html:
-    theme: flatly
-    css: styles.css
-    toc: true
+    theme:
+      - flatly
+      - custom.scss

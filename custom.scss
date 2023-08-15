@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+$navbar-fg: #fff;
+
+/*-- scss:rules --*/
+
+.publink {
+  text-decoration: none;
+  font-size: 0.8em;
+  padding: 0.25em 0.5em;
+  margin-right: 0.5em;
+  border: solid 1px;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+footer.footer .nav-footer, #quarto-header > nav {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.navbar-dark .navbar-brand {
+  font-weight: bold;
+}
+
+.nav-footer a:hover {
+  color: #18bc9c;
+}
