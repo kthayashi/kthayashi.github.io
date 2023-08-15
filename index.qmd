@@ -1,6 +1,6 @@
 ---
 title: Kenji Hayashi
-subtitle: "(he/him/his) [{{< fa volume-high title='Hear my name on NameDrop' label='Hear my name on NameDrop' >}}](https://namedrop.io/kenjihayashi){target='_blank'}"
+subtitle: (he/him/his)
 image: img/headshot.jpg
 image-alt: Headshot
 about:
@@ -10,26 +10,32 @@ about:
     - text: "{{< fa envelope >}} Contact"
       href: mailto:kthayashi@ucla.edu
       aria-label: Contact
+    - text: "{{< fa brands google >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=EQaU-9wAAAAJ
+      aria-label: Google Scholar
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-7598-1865
+      aria-label: ORCID
     - text: "{{< fa brands github >}} GitHub"
       href: https://github.com/kthayashi
       aria-label: GitHub
     - text: "{{< fa brands gitlab >}} GitLab"
       href: https://gitlab.com/kthayashi
       aria-label: GitLab
-    - text: "{{< fa brands google >}} Google Scholar"
-      href: https://scholar.google.com/citations?user=EQaU-9wAAAAJ
-      aria-label: Google Scholar
     - text: "{{< fa brands linkedin >}} LinkedIn"
       href: https://www.linkedin.com/in/kthayashi
       aria-label: LinkedIn
+    - text: "{{< fa volume-high >}} NameDrop"
+      href: https://namedrop.io/kenjihayashi
+      aria-label: NameDrop
 toc: false
 ---
 
 ## Greetings!
 
-My name is Kenji Hayashi - I'm a Ph.D. candidate in the Department of Ecology and Evolutionary Biology at University of California, Los Angeles.
+My name is Kenji Hayashi - I'm a PhD candidate in the Department of Ecology and Evolutionary Biology at University of California, Los Angeles.
 
-I'm a plant community ecologist and data scientist striving to disentangle how plant communities are jointly shaped by the abiotic environment (e.g. climate, soil) and biotic interactions (e.g. competition) across spatial scales. I'm also passionate about evidence-based approaches to STEM and data science education.
+I'm a plant community ecologist and data scientist striving to understand how plant communities and distributions are jointly shaped by the abiotic environment (e.g. climate, soil) and biotic interactions (e.g. competition). I'm also passionate about R, statistics, and evidence-based approaches to STEM education.
 
 ### Education
 
