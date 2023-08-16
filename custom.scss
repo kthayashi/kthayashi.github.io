@@ -1,6 +1,7 @@
 /*-- scss:defaults --*/
 
-$navbar-fg: #fff;
+$navbar-fg: rgb(255, 255, 255);
+$navbar-hover: rgba(255, 255, 255, 0.8);
 
 /*-- scss:rules --*/
 
@@ -23,6 +24,20 @@ footer.footer .nav-footer, #quarto-header > nav {
   font-weight: bold;
 }
 
+.navbar-dark .navbar-nav .nav-link.active {
+  color: $link-color;
+}
+
+.navbar-dark .quarto-navbar-tools .quarto-navigation-tool:hover {
+  color: $navbar-hover;
+  transition: 0.15s ease-in-out;
+}
+
+.navbar-dark #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon:hover {
+  color: $navbar-hover;
+  transition: 0.15s ease-in-out;
+}
+
 .nav-footer a:hover {
-  color: #18bc9c;
+  color: $link-color;
 }
