@@ -14,6 +14,8 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: research/index.qmd
+        text: Research
       - href: publications/index.qmd
         text: Publications
       - href: resources/index.qmd

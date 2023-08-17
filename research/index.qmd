@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+::::::{layout="[50, 50]"}
+:::{}
+### Species coexistence
+
+Plant communities can house remarkable biodiversity, but how do all these plant species coexist? In particular, what is the role of spatial environmental variation in promoting coexistence? What are the potential consequences of environmental change for these coexistence-promoting mechanisms? I tackle these questions through field and greenhouse experiments tightly coupled with ecological theory.
+:::
+:::{}
+<br>
+![](../assets/img/sedgwick-community.jpg)
+:::
+::::::
+
+::::::{layout="[50, 50]"}
+:::{}
+<br>
+![](../assets/img/sedgwick-landscape.jpg)
+:::
+:::{}
+### Species distributions
+
+For a species to persist in a given location, it needs to withstand the environmental conditions there amidst interactions with other species in the community. Then, *when* and *how* do species interactions play a significant role in shaping species distributions at landscape- to continental-scales? My research aims to build up this understanding from demography and population dynamics in a community context.
+:::
+::::::
