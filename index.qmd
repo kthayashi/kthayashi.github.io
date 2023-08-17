@@ -35,12 +35,12 @@ toc: false
 
 My name is Kenji Hayashi - I'm a PhD candidate in the Department of Ecology and Evolutionary Biology at the University of California, Los Angeles.
 
-I'm a plant community ecologist and data scientist striving to understand how plant communities and distributions are jointly shaped by the abiotic environment (e.g. climate, soil) and biotic interactions (e.g. competition). I'm also passionate about R, statistics, open/reproducible science, and evidence-based approaches to STEM education.
+I'm a plant community ecologist and data scientist striving to understand the dynamics governing plant communities and distributions. I'm also passionate about R, statistics, open/reproducible science, and evidence-based approaches to STEM education.
 
 ### Education
 
-**PhD, Ecology and Evolutionary Biology** | 2018 - Present    
+**PhD in Ecology & Evolutionary Biology** | 2018 - Present  
 University of California, Los Angeles
 
-**BS, Biology** | 2014 - 2018   
+**BS in Biology** | 2014 - 2018  
 Brown University
