@@ -19,7 +19,7 @@ website:
       - href: resources/index.qmd
         text: Resources
   page-footer:
-    center: "[License]() | [Acknowledgments](/acknowledgments/index.qmd)"
+    center: "© 2023 Kenji Hayashi | [License](https://github.com/kthayashi/website#license)"
 
 format:
   html:
