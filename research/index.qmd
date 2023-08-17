@@ -22,6 +22,30 @@ Plant communities can house remarkable biodiversity, but how do all these plant 
 :::{}
 ### Species distributions
 
-For a species to persist in a given location, it needs to withstand the environmental conditions there amidst interactions with other species in the community. Then, *when* and *how* do species interactions play a significant role in shaping species distributions at landscape- to continental-scales? My research aims to build up this understanding from demography and population dynamics in a community context.
+For a species to persist in a given location, it needs to withstand the environmental conditions there amidst interactions with other species in the community. Then, when and how do species interactions play a significant role in shaping species distributions? My research aims to build up this understanding from the first principles of demography and population dynamics in a community context.
+:::
+::::::
+
+::::::{layout="[50, 50]"}
+:::{}
+### Functional traits
+
+Plant species' ecological strategies are reflected in their functional traits. Can these traits be used to predict the demography, and in turn the (co-)occurrence patterns, of many species across environmental gradients? I am exploring this question both at the landscape scale using community surveys and at the geographic scale using botanical big data.
+:::
+:::{}
+<br>
+![](../assets/img/lasthenia-californica.jpg)
+:::
+::::::
+
+::::::{layout="[50, 50]"}
+:::{}
+<br>
+![](../assets/img/ecoevoapps-mutualism.jpg)
+:::
+:::{}
+### Ecology education
+
+Ecology education has a crucial role to play in our world that is increasingly impacted by anthropogenic environmental change. How can we better help students learn important concepts in ecology, especially quantitative ones? I am involved in the development of [EcoEvoApps](https://ecoevoapps.gitlab.io), a collection of interactive web apps for theoretical models in ecology and evolution, and am actively exploring how such tools can enhance more traditional approaches to ecology education.
 :::
 ::::::
