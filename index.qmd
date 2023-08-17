@@ -1,7 +1,7 @@
 ---
 title: Kenji Hayashi
 subtitle: (he/him/his)
-image: img/headshot.jpg
+image: assets/img/headshot.jpg
 image-alt: Headshot
 about:
   template: trestles

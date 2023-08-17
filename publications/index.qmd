@@ -18,10 +18,10 @@ library(bib2df)
 library(yaml)
 
 # Load bibtex file as data frame
-bib.df <- bib2df(here::here("data/mypubs.bib"))
+bib.df <- bib2df(here::here("assets/data/mypubs.bib"))
 
 # Load auxiliary data in yaml file as list
-aux.yaml <- read_yaml(here::here("data/mypubs-aux.yaml"))
+aux.yaml <- read_yaml(here::here("assets/data/mypubs-aux.yaml"))
 
 # Extract auxiliary fields
 aux.fields <- unique(unlist(lapply(aux.yaml$ARTICLE, function(x) names(x[[1]]))))
