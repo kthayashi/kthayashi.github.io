@@ -11,7 +11,7 @@ website:
           - text: Source code
             url: https://github.com/kthayashi/kthayashi.github.io
           - text: Report an issue
-            url: https://github.com/kthayashi/website/kthayashi.github.io
+            url: https://github.com/kthayashi/kthayashi.github.io/issues
     left:
       - href: index.qmd
         text: About
