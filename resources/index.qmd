@@ -3,7 +3,7 @@ title: "Resources"
 toc: true
 ---
 
-Over the years, I've bookmarked far too many resources that I can never seem to find when I actually need them. Rather than continuing to file these resources away in a corner of my web browser, I figured I could compile a running list of resources here, both for myself and for anyone else who happens to come across this page. Please feel free to suggest any additions to this list by opening an [issue](https://github.com/kthayashi/website/issues) on the GitHub repo for this website. **Thank you to all the wonderful people out there who created these resources!**
+Over the years, I've bookmarked far too many resources that I can never seem to find when I actually need them. Rather than continuing to file these resources away in a corner of my web browser, I figured I could compile a running list of resources here, both for myself and for anyone else who happens to come across this page. Please feel free to suggest any additions to this list by opening an [issue](https://github.com/kthayashi/kthayashi.github.io/issues) on the GitHub repo for this website. **Thank you to all the wonderful people out there who created these resources!**
 
 ## Academic
 
