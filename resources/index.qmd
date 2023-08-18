@@ -3,14 +3,48 @@ title: "Resources"
 toc: true
 ---
 
-Over the years, I've bookmarked far too many resources that I can never seem to find when I actually need them. Rather than continuing to file these resources away in a corner of my web browser, I figured I could compile a living, running list of resources here, both for myself and for anyone else who happens to come across this page. Please feel free to suggest any additions to this list by opening an [issue](https://github.com/kthayashi/website/issues) on the GitHub repo for this website. **Thank you to all the wonderful people out there who created these resources!**
+Over the years, I've bookmarked far too many resources that I can never seem to find when I actually need them. Rather than continuing to file these resources away in a corner of my web browser, I figured I could compile a running list of resources here, both for myself and for anyone else who happens to come across this page. Please feel free to suggest any additions to this list by opening an [issue](https://github.com/kthayashi/website/issues) on the GitHub repo for this website. **Thank you to all the wonderful people out there who created these resources!**
+
+## Academic
+
+- [myIDP](https://myidp.sciencecareers.org/) by Cynthia Fuhrmann et al.
+- [Society for the Advancement of Biology Research Education](https://saberbio.wildapricot.org/)
+- [National Center for Faculty Development and Diversity](https://www.facultydiversity.org/)
+- [Connected Papers](https://www.connectedpapers.com/)
+
+## Blogs
+
+- [Dynamic Ecology](https://dynamicecology.wordpress.com/) by Jeremy Fox et al.
+- [Reflections on Papers Past](https://reflectionsonpaperspast.wordpress.com/) by Hari Sridhar
+- [Publishable Stuff](https://www.sumsar.net/) by Rasmus Bååth
+
+## Statistics & data science
+
+- [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath
+- [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/content/3890/) by Solomon Kurz
+- [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman et al.
+- [Bayesian Data Analysis in Ecology with R and Stan](https://tobiasroth.github.io/BDAEcology/index.html) by Fränzi Korner-Nievergelt et al.
+- [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde et al.
+- [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) by Michael Freeman
+- [Probability Distribution Explorer](https://distribution-explorer.github.io/) by Justin Bois
+- [Seeing Theory](https://seeing-theory.brown.edu/) by Daniel Kunin et al.
+- [Software Carpentry](https://software-carpentry.org/) by The Carpentries
+- [Data Carpentry](https://datacarpentry.org/) by The Carpentries
+- [Updating Data](https://www.updatingdata.org/) by Weecology
 
 ## Geospatial
 
 - [Spatial Data Science with Applications in R](https://r-spatial.org/book/) by Edzer Pebesma & Roger Bivand
-- [Spatial Data Science with R and "terra"](https://rspatial.org/index.html) by rspatial
+- [Spatial Data Science with R and "terra"](https://rspatial.org/index.html) by Robert Hijmans et al.
+
+## Jobs
+
+- [Natural Resources Job Board](https://wfscjobs.tamu.edu/job-board/) by Texas A&M University
+- [NatureTech Jobs](https://naturetech.io/)
 
 ## R
+
+### Books and manuals
 
 - [The R Manuals](https://cran.r-project.org/manuals.html) by the R Development Core Team
 - [Big Book of R](https://www.bigbookofr.com/) by Oscar Baruffa
@@ -19,16 +53,29 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 - [R for Data Science (2e)](https://r4ds.hadley.nz/) by Hadley Wickham et al.
 - [Mastering Shiny](https://mastering-shiny.org/) by Hadley Wickham
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) by Colin Fay et al.
+- [shinyapps.io User Guide](https://docs.posit.co/shinyapps.io/index.html) by shinyapps.io Team
 - [R Packages (2e)](https://r-pkgs.org/) by Hadley Wickham & Jennifer Bryan
 - [Advanced R (2e)](https://adv-r.hadley.nz/) by Hadley Wickham
-- [The tidyverse style guide](https://style.tidyverse.org/) by Hadley Wickham
-- [Posit cheatsheets](https://posit.co/resources/cheatsheets/) by Posit
-- [R color palettes](https://github.com/EmilHvitfeldt/r-color-palettes) by Emil Hvitfeldt
-- [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) by NCEAS
+- [The tidyverse Style Guide](https://style.tidyverse.org/) by Hadley Wickham
+- [Posit Cheatsheets](https://posit.co/resources/cheatsheets/) by Posit
+- [R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes) by Emil Hvitfeldt
+- [R Color Cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) by NCEAS
+
+### Packages
+
+- [tidyverse](https://tidyverse.tidyverse.org/) by Hadley Wickham et al.
+- [targets](https://docs.ropensci.org/targets/) by William Michael Landau
 
 ## Reproducible research
 
-- [Quarto](https://quarto.org/) by Posit
+- [Quarto Guide](https://quarto.org/docs/guide/) by Posit
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie et al.
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) by Yihui Xie et al.
+- [R Markdown for writing reproducible scientific papers](https://libscie.github.io/rmarkdown-workshop/handout.html) by Mike Frank & Chris Hartgerink
+- [Academic publications with R Markdown](https://danovando.github.io/publications-with-rmarkdown/presentations/pubs-with-rmarkdown#1) by Dan Ovando
+- [The Plain Person's Guide to Plain Text Social Science](https://kieranhealy.org/publications/plain-person-text/) by Kieran Healy
+- [Metadata and describing data](https://data.research.cornell.edu/data-management/storing-and-managing/metadata/) by Cornell Data Services
+- [Guide to writing "readme" style metadata](https://data.research.cornell.edu/data-management/sharing/readme/) by Cornell Data Services
 
 ## Web development
 
