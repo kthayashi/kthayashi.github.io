@@ -10,25 +10,27 @@ about:
     - text: "{{< fa envelope >}} Contact"
       href: mailto:kthayashi@ucla.edu
       aria-label: Contact
+    - text: "{{< fa volume-high >}} NameDrop"
+      href: https://namedrop.io/kenjihayashi
+      aria-label: NameDrop
+    - text: "{{< fa regular file-lines >}} CV"
+      href: https://github.com/kthayashi/cv/blob/main/Kenji-Hayashi-CV.pdf
+      aria-label: CV
     - text: "{{< fa brands google >}} Google Scholar"
       href: https://scholar.google.com/citations?user=EQaU-9wAAAAJ
       aria-label: Google Scholar
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0000-0002-7598-1865
       aria-label: ORCID
+    - text: "{{< fa brands linkedin >}} LinkedIn"
+      href: https://www.linkedin.com/in/kthayashi
+      aria-label: LinkedIn
     - text: "{{< fa brands github >}} GitHub"
       href: https://github.com/kthayashi
       aria-label: GitHub
     - text: "{{< fa brands gitlab >}} GitLab"
       href: https://gitlab.com/kthayashi
       aria-label: GitLab
-    - text: "{{< fa brands linkedin >}} LinkedIn"
-      href: https://www.linkedin.com/in/kthayashi
-      aria-label: LinkedIn
-    - text: "{{< fa volume-high >}} NameDrop"
-      href: https://namedrop.io/kenjihayashi
-      aria-label: NameDrop
-toc: false
 ---
 
 ## Greetings!
