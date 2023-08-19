@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "assets/pdf/Kenji-Hayashi-CV.pdf"
 
 website:
   title: Kenji Hayashi
