@@ -4,6 +4,8 @@ project:
 
 website:
   title: Kenji Hayashi
+  description: Personal website for Kenji Hayashi, PhD candidate in Ecology and Evolutionary Biology at UCLA
+  image: assets/img/lasthenia-californica.jpg
   navbar:
     tools:
       - icon: github
@@ -23,6 +25,8 @@ website:
         text: Resources
   page-footer:
     center: "© 2023 Kenji Hayashi | [License](https://github.com/kthayashi/kthayashi.github.io#license) | Built with [Quarto](https://quarto.org/)"
+  site-url: https://kthayashi.github.io/
+  open-graph: true
 
 format:
   html:
