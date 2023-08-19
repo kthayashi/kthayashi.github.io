@@ -1,6 +1,6 @@
 # Personal website for Kenji Hayashi
 
-This repo contains the source code for my personal website built with [Quarto](https://quarto.org/).
+This repo contains the source code for my personal website built with [Quarto](https://quarto.org/). The website is also hosted from this repo with [GitHub Pages](https://pages.github.com/).
 
 ## License
 
