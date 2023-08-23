@@ -1,10 +1,12 @@
 # Personal website for Kenji Hayashi
 
+## Overview
+
 This repo contains the source code for my personal website built with [Quarto](https://quarto.org/). The website is also hosted from this repo with [GitHub Pages](https://pages.github.com/).
 
 ## License
 
-All content is licensed under a [CC BY 4.0 License](https://github.com/kthayashi/kthayashi.github.io/blob/main/LICENSE), unless otherwise specified. All original code is licensed under the [MIT License](https://github.com/kthayashi/kthayashi.github.io/blob/main/LICENSE-CODE).
+All non-code content is licensed under a [CC BY 4.0 License](https://github.com/kthayashi/kthayashi.github.io/blob/main/LICENSE), unless otherwise specified. All original code is licensed under the [MIT License](https://github.com/kthayashi/kthayashi.github.io/blob/main/LICENSE-CODE).
 
 This website also contains and/or uses code from external libraries, including:
 
