@@ -3,7 +3,7 @@ title: "Resources"
 toc: true
 ---
 
-Over the years, I've bookmarked far too many resources that I can never seem to find when I actually need them. Rather than continuing to file these resources away in a corner of my web browser, I figured I could compile a running list of resources here, both for myself and for anyone else who happens to come across this page. Please feel free to suggest any additions to this list by opening an [issue](https://github.com/kthayashi/kthayashi.github.io/issues) on the GitHub repo for this website. **Thank you to all the wonderful people out there who created these resources!**
+Over the years, I've bookmarked far too many resources that I can never seem to find when I actually need them. Rather than continuing to file these resources away in a corner of my web browser, I figured I could compile a running list here, both for myself and for anyone else who happens to come across this page. Please feel free to suggest any additions to this list by opening an [issue](https://github.com/kthayashi/kthayashi.github.io/issues) on the GitHub repo for this website. **Thank you to all the wonderful people out there who created these resources!**
 
 ## Academic
 
@@ -20,17 +20,28 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 
 ## Statistics & data science
 
+### Books
+
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath
 - [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/content/3890/) by Solomon Kurz
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman et al.
 - [Bayesian Data Analysis in Ecology with R and Stan](https://tobiasroth.github.io/BDAEcology/index.html) by Fränzi Korner-Nievergelt et al.
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde et al.
 - [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) by Michael Freeman
+
+### Websites
+
 - [Probability Distribution Explorer](https://distribution-explorer.github.io/) by Justin Bois
 - [Seeing Theory](https://seeing-theory.brown.edu/) by Daniel Kunin et al.
 - [Software Carpentry](https://software-carpentry.org/) by The Carpentries
 - [Data Carpentry](https://datacarpentry.org/) by The Carpentries
 - [Updating Data](https://www.updatingdata.org/) by Weecology
+
+### Posts
+
+- [The Bayesian Counterpart of Pearson's Correlation Test](https://www.sumsar.net/blog/2013/08/bayesian-estimation-of-correlation/) by Rasmus Bååth
+- [The Non-parametric Bootstrap as a Bayesian Model](https://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/) by Rasmus Bååth
+- [Bayesian robust correlation with Stan in R](https://baezortega.github.io/2018/05/28/robust-correlation/) by Adrian Baez-Ortega
 
 ## Geospatial
 
@@ -39,6 +50,7 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 
 ## Jobs
 
+- [EcoEvoJobs 23-24](https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit#gid=54534292)
 - [Natural Resources Job Board](https://wfscjobs.tamu.edu/job-board/) by Texas A&M University
 - [NatureTech Jobs](https://naturetech.io/)
 
@@ -55,6 +67,7 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) by Colin Fay et al.
 - [shinyapps.io User Guide](https://docs.posit.co/shinyapps.io/index.html) by shinyapps.io Team
 - [R Packages (2e)](https://r-pkgs.org/) by Hadley Wickham & Jennifer Bryan
+- [Licensing R](https://thinkr-open.github.io/licensing-r/) by Colin Fay
 - [Advanced R (2e)](https://adv-r.hadley.nz/) by Hadley Wickham
 - [The tidyverse Style Guide](https://style.tidyverse.org/) by Hadley Wickham
 - [Posit Cheatsheets](https://posit.co/resources/cheatsheets/) by Posit
