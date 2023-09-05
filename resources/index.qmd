@@ -32,6 +32,7 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 ### Websites
 
 - [Probability Distribution Explorer](https://distribution-explorer.github.io/) by Justin Bois
+- [A Visual Introduction to Hierarchical Models](http://mfviz.com/hierarchical-models/) by Michael Freeman
 - [Seeing Theory](https://seeing-theory.brown.edu/) by Daniel Kunin et al.
 - [Software Carpentry](https://software-carpentry.org/) by The Carpentries
 - [Data Carpentry](https://datacarpentry.org/) by The Carpentries
@@ -78,6 +79,10 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 
 - [tidyverse](https://tidyverse.tidyverse.org/) by Hadley Wickham et al.
 - [targets](https://docs.ropensci.org/targets/) by William Michael Landau
+
+## Remote sensing
+
+- [Applied Remote Sensing Program (ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) by NASA
 
 ## Reproducible research
 
