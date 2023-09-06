@@ -28,6 +28,8 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 - [Bayesian Data Analysis in Ecology with R and Stan](https://tobiasroth.github.io/BDAEcology/index.html) by Fränzi Korner-Nievergelt et al.
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde et al.
 - [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) by Michael Freeman
+- [Causal Inference in R](https://www.r-causal.org/) by Malcolm Barrett et al.
+- [Applied Machine Learning Using mlr3 in R](https://mlr3book.mlr-org.com/) by Bernd Bischl et al.
 
 ### Websites
 
@@ -37,6 +39,8 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 - [Software Carpentry](https://software-carpentry.org/) by The Carpentries
 - [Data Carpentry](https://datacarpentry.org/) by The Carpentries
 - [Updating Data](https://www.updatingdata.org/) by Weecology
+- [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/) by the Royal Statistical Society
+- [Real World Data Science](https://realworlddatascience.net/) by the Royal Statistical Society
 
 ### Posts
 
@@ -74,6 +78,8 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 - [Posit Cheatsheets](https://posit.co/resources/cheatsheets/) by Posit
 - [R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes) by Emil Hvitfeldt
 - [R Color Cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) by NCEAS
+- [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2) by Erik Gahner Larsen et al.
+- [R Weekly](https://rweekly.org/) by R Weekly
 
 ### Packages
 
