@@ -39,7 +39,7 @@
     "href": "resources/index.html#academic",
     "title": "Resources",
     "section": "Academic",
-    "text": "Academic\n\nmyIDP by Cynthia Fuhrmann et al.\nSociety for the Advancement of Biology Research Education\nNational Center for Faculty Development and Diversity\nConnected Papers"
+    "text": "Academic\n\nSociety for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)\nCenter for the Integration of Research, Teaching and Learning (CIRTL)\nSociety for the Advancement of Biology Research Education\nNational Center for Faculty Development and Diversity\nmyIDP"
   },
   {
     "objectID": "resources/index.html#blogs",
@@ -53,7 +53,7 @@
     "href": "resources/index.html#statistics-data-science",
     "title": "Resources",
     "section": "Statistics & data science",
-    "text": "Statistics & data science\n\nBooks\n\nStatistical Rethinking by Richard McElreath\nStatistical Rethinking with brms, ggplot2, and the tidyverse by Solomon Kurz\nBayesian Data Analysis by Andrew Gelman et al.\nBayesian Data Analysis in Ecology with R and Stan by Fränzi Korner-Nievergelt et al.\nAn Introduction to Bayesian Thinking by Merlise Clyde et al.\nAn Introduction to Hierarchical Modeling by Michael Freeman\nCausal Inference in R by Malcolm Barrett et al.\nApplied Machine Learning Using mlr3 in R by Bernd Bischl et al.\n\n\n\nWebsites\n\nProbability Distribution Explorer by Justin Bois\nA Visual Introduction to Hierarchical Models by Michael Freeman\nSeeing Theory by Daniel Kunin et al.\nSoftware Carpentry by The Carpentries\nData Carpentry by The Carpentries\nUpdating Data by Weecology\nBest Practices for Data Visualisation by the Royal Statistical Society\nReal World Data Science by the Royal Statistical Society\n\n\n\nPosts\n\nThe Bayesian Counterpart of Pearson’s Correlation Test by Rasmus Bååth\nThe Non-parametric Bootstrap as a Bayesian Model by Rasmus Bååth\nBayesian robust correlation with Stan in R by Adrian Baez-Ortega"
+    "text": "Statistics & data science\n\nBooks\n\nStatistical Rethinking by Richard McElreath\nStatistical Rethinking with brms, ggplot2, and the tidyverse by Solomon Kurz\nBayesian Data Analysis by Andrew Gelman et al.\nBayesian Data Analysis in Ecology with R and Stan by Fränzi Korner-Nievergelt et al.\nAn Introduction to Bayesian Thinking by Merlise Clyde et al.\nAn Introduction to Hierarchical Modeling by Michael Freeman\nCausal Inference in R by Malcolm Barrett et al.\nApplied Machine Learning Using mlr3 in R by Bernd Bischl et al.\n\n\n\nWebsites\n\nProbability Distribution Explorer by Justin Bois\nA Visual Introduction to Hierarchical Models by Michael Freeman\nSeeing Theory by Daniel Kunin et al.\nSoftware Carpentry by The Carpentries\nData Carpentry by The Carpentries\nUpdating Data by Weecology\nBest Practices for Data Visualisation by the Royal Statistical Society\nReal World Data Science by the Royal Statistical Society\nEarth Data Science by Earth Lab\n\n\n\nPosts\n\nThe Bayesian Counterpart of Pearson’s Correlation Test by Rasmus Bååth\nThe Non-parametric Bootstrap as a Bayesian Model by Rasmus Bååth\nBayesian robust correlation with Stan in R by Adrian Baez-Ortega"
   },
   {
     "objectID": "resources/index.html#geospatial",
@@ -63,18 +63,11 @@
     "text": "Geospatial\n\nSpatial Data Science with Applications in R by Edzer Pebesma & Roger Bivand\nSpatial Data Science with R and “terra” by Robert Hijmans et al."
   },
   {
-    "objectID": "resources/index.html#jobs",
-    "href": "resources/index.html#jobs",
-    "title": "Resources",
-    "section": "Jobs",
-    "text": "Jobs\n\nEcoEvoJobs 23-24\nNatural Resources Job Board by Texas A&M University\nNatureTech Jobs"
-  },
-  {
     "objectID": "resources/index.html#r",
     "href": "resources/index.html#r",
     "title": "Resources",
     "section": "R",
-    "text": "R\n\nBooks and manuals\n\nThe R Manuals by the R Development Core Team\nBig Book of R by Oscar Baruffa\nswirl: Learn R, in R by Team swirl\nggplot2: Elegant Graphics for Data Analysis (3e) by Hadley Wickham et al.\nR for Data Science (2e) by Hadley Wickham et al.\nMastering Shiny by Hadley Wickham\nEngineering Production-Grade Shiny Apps by Colin Fay et al.\nshinyapps.io User Guide by shinyapps.io Team\nR Packages (2e) by Hadley Wickham & Jennifer Bryan\nLicensing R by Colin Fay\nAdvanced R (2e) by Hadley Wickham\nThe tidyverse Style Guide by Hadley Wickham\nPosit Cheatsheets by Posit\nR Color Palettes by Emil Hvitfeldt\nR Color Cheatsheet by NCEAS\nAwesome ggplot2 by Erik Gahner Larsen et al.\nR Weekly by R Weekly\n\n\n\nPackages\n\ntidyverse by Hadley Wickham et al.\ntargets by William Michael Landau"
+    "text": "R\n\nThe R Manuals by the R Development Core Team\nBig Book of R by Oscar Baruffa\nR Weekly by R Weekly\nswirl: Learn R, in R by Team swirl\nggplot2: Elegant Graphics for Data Analysis (3e) by Hadley Wickham et al.\nR for Data Science (2e) by Hadley Wickham et al.\nMastering Shiny by Hadley Wickham\nEngineering Production-Grade Shiny Apps by Colin Fay et al.\nshinyapps.io User Guide by shinyapps.io Team\nR Packages (2e) by Hadley Wickham & Jennifer Bryan\nLicensing R by Colin Fay\nAdvanced R (2e) by Hadley Wickham\nThe tidyverse Style Guide by Hadley Wickham\nPosit Cheatsheets by Posit\nR Color Palettes by Emil Hvitfeldt\nR Color Cheatsheet by NCEAS\nAwesome ggplot2 by Erik Gahner Larsen et al."
   },
   {
     "objectID": "resources/index.html#remote-sensing",

@@ -7,10 +7,11 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 
 ## Academic
 
-- [myIDP](https://myidp.sciencecareers.org/) by Cynthia Fuhrmann et al.
+- [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org/)
+- [Center for the Integration of Research, Teaching and Learning (CIRTL)](https://cirtl.net/)
 - [Society for the Advancement of Biology Research Education](https://saberbio.wildapricot.org/)
 - [National Center for Faculty Development and Diversity](https://www.facultydiversity.org/)
-- [Connected Papers](https://www.connectedpapers.com/)
+- [myIDP](https://myidp.sciencecareers.org/)
 
 ## Blogs
 
@@ -41,6 +42,7 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 - [Updating Data](https://www.updatingdata.org/) by Weecology
 - [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/) by the Royal Statistical Society
 - [Real World Data Science](https://realworlddatascience.net/) by the Royal Statistical Society
+- [Earth Data Science](https://www.earthdatascience.org/) by Earth Lab
 
 ### Posts
 
@@ -53,18 +55,11 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 - [Spatial Data Science with Applications in R](https://r-spatial.org/book/) by Edzer Pebesma & Roger Bivand
 - [Spatial Data Science with R and "terra"](https://rspatial.org/index.html) by Robert Hijmans et al.
 
-## Jobs
-
-- [EcoEvoJobs 23-24](https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit#gid=54534292)
-- [Natural Resources Job Board](https://wfscjobs.tamu.edu/job-board/) by Texas A&M University
-- [NatureTech Jobs](https://naturetech.io/)
-
 ## R
-
-### Books and manuals
 
 - [The R Manuals](https://cran.r-project.org/manuals.html) by the R Development Core Team
 - [Big Book of R](https://www.bigbookofr.com/) by Oscar Baruffa
+- [R Weekly](https://rweekly.org/) by R Weekly
 - [swirl: Learn R, in R](https://swirlstats.com/) by Team swirl
 - [ggplot2: Elegant Graphics for Data Analysis (3e)](https://ggplot2-book.org/) by Hadley Wickham et al.
 - [R for Data Science (2e)](https://r4ds.hadley.nz/) by Hadley Wickham et al.
@@ -79,12 +74,6 @@ Over the years, I've bookmarked far too many resources that I can never seem to 
 - [R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes) by Emil Hvitfeldt
 - [R Color Cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) by NCEAS
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2) by Erik Gahner Larsen et al.
-- [R Weekly](https://rweekly.org/) by R Weekly
-
-### Packages
-
-- [tidyverse](https://tidyverse.tidyverse.org/) by Hadley Wickham et al.
-- [targets](https://docs.ropensci.org/targets/) by William Michael Landau
 
 ## Remote sensing
 
