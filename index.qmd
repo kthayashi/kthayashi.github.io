@@ -2,7 +2,7 @@
 title: Kenji Hayashi
 subtitle: (he/him/his)
 image: assets/img/headshot.jpg
-image-alt: Headshot
+image-alt: Headshot of Kenji Hayashi
 about:
   template: trestles
   image-shape: rounded
@@ -31,6 +31,12 @@ about:
     - text: "{{< fa brands gitlab >}} GitLab"
       href: https://gitlab.com/kthayashi
       aria-label: GitLab
+twitter-card:
+  image: assets/img/lasthenia-californica.jpg
+  image-alt: Photo of Lasthenia californica
+open-graph:
+  image: assets/img/lasthenia-californica.jpg
+  image-alt: Photo of Lasthenia californica
 ---
 
 ## Greetings!

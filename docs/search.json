@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "* indicates equal contribution\n\n\n\nMcGuire, RM*, Hayashi, KT*, Yan, X*, Caritá Vaz, M, Cinoğlu, D, Cowen, MC, Martínez-Blancas, A, Sullivan, LL, Vazquez-Morales, S, Kandlikar, GS. (2022). EcoEvoApps: Interactive apps for theoretical models in ecology and evolutionary biology. Ecology and Evolution, 12, e9556.\n Article  Data  Code\n\n\n\n\n\nMiller, EC, Hayashi, KT, Song, D, Wiens, JJ. (2018). Explaining the ocean’s richest biodiversity hotspot and global patterns of fish diversity. Proceedings of the Royal Society B: Biological Sciences, 285, 20181314.\n Article  Data  Code"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Species coexistence\nPlant communities can house remarkable biodiversity, but how do all these plant species coexist? In particular, what is the role of spatial environmental variation in promoting coexistence? What are the potential consequences of environmental change for these coexistence-promoting mechanisms? I tackle these questions through field and greenhouse experiments tightly coupled with ecological theory.\n\n\n \n\n\n\n\n\n\n\n\n\n \n\n\nSpecies distributions\nFor a species to persist in a given location, it needs to withstand the environmental conditions there amidst interactions with other species in the community. Then, when and how do species interactions play a significant role in shaping species distributions? My research aims to build up this understanding from the first principles of demography and population dynamics in a community context.\n\n\n\n\n\n\n\n\n\nFunctional traits\nPlant species’ ecological strategies are reflected in their functional traits. Can these traits be used to predict the demography, and in turn the (co-)occurrence patterns, of many species across environmental gradients? I am exploring this question both at the landscape scale using community surveys and at the geographic scale using botanical big data.\n\n\n \n\n\n\n\n\n\n\n\n\n \n\n\nEcology education\nEcology education has a crucial role to play in our world that is increasingly impacted by anthropogenic environmental change. How can we better help students learn important concepts in ecology, especially quantitative ones? I am involved in the development of EcoEvoApps, a collection of interactive web apps for theoretical models in ecology and evolution, and am actively exploring how such tools can enhance more traditional approaches to ecology education."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kenji Hayashi",
@@ -12,82 +26,5 @@
     "title": "Kenji Hayashi",
     "section": "",
     "text": "My name is Kenji Hayashi - I’m a PhD candidate in the Department of Ecology and Evolutionary Biology at the University of California, Los Angeles.\nI’m a plant community ecologist and data scientist striving to understand the dynamics governing plant communities and distributions. I’m also passionate about R, statistics, open/reproducible science, and evidence-based approaches to STEM education.\n\n\nPhD in Ecology & Evolutionary Biology | 2018 - Present\nUniversity of California, Los Angeles\nBS in Biology | 2014 - 2018\nBrown University"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "* indicates equal contribution\n\n\n\nMcGuire, RM*, Hayashi, KT*, Yan, X*, Caritá Vaz, M, Cinoğlu, D, Cowen, MC, Martínez-Blancas, A, Sullivan, LL, Vazquez-Morales, S, Kandlikar, GS. (2022). EcoEvoApps: Interactive apps for theoretical models in ecology and evolutionary biology. Ecology and Evolution, 12, e9556.\n Article  Data  Code\n\n\n\n\n\nMiller, EC, Hayashi, KT, Song, D, Wiens, JJ. (2018). Explaining the ocean’s richest biodiversity hotspot and global patterns of fish diversity. Proceedings of the Royal Society B: Biological Sciences, 285, 20181314.\n Article  Data  Code"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "Species coexistence\nPlant communities can house remarkable biodiversity, but how do all these plant species coexist? In particular, what is the role of spatial environmental variation in promoting coexistence? What are the potential consequences of environmental change for these coexistence-promoting mechanisms? I tackle these questions through field and greenhouse experiments tightly coupled with ecological theory.\n\n\n \n\n\n\n\n\n\n \n\n\nSpecies distributions\nFor a species to persist in a given location, it needs to withstand the environmental conditions there amidst interactions with other species in the community. Then, when and how do species interactions play a significant role in shaping species distributions? My research aims to build up this understanding from the first principles of demography and population dynamics in a community context.\n\n\n\n\n\n\nFunctional traits\nPlant species’ ecological strategies are reflected in their functional traits. Can these traits be used to predict the demography, and in turn the (co-)occurrence patterns, of many species across environmental gradients? I am exploring this question both at the landscape scale using community surveys and at the geographic scale using botanical big data.\n\n\n \n\n\n\n\n\n\n \n\n\nEcology education\nEcology education has a crucial role to play in our world that is increasingly impacted by anthropogenic environmental change. How can we better help students learn important concepts in ecology, especially quantitative ones? I am involved in the development of EcoEvoApps, a collection of interactive web apps for theoretical models in ecology and evolution, and am actively exploring how such tools can enhance more traditional approaches to ecology education."
-  },
-  {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Over the years, I’ve bookmarked far too many resources that I can never seem to find when I actually need them. Rather than continuing to file these resources away in a corner of my web browser, I figured I could compile a running list here, both for myself and for anyone else who happens to come across this page. Please feel free to suggest any additions to this list by opening an issue on the GitHub repo for this website. Thank you to all the wonderful people out there who created these resources!"
-  },
-  {
-    "objectID": "resources/index.html#academic",
-    "href": "resources/index.html#academic",
-    "title": "Resources",
-    "section": "Academic",
-    "text": "Academic\n\nSociety for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)\nCenter for the Integration of Research, Teaching and Learning (CIRTL)\nSociety for the Advancement of Biology Research Education\nNational Center for Faculty Development and Diversity\nmyIDP"
-  },
-  {
-    "objectID": "resources/index.html#blogs",
-    "href": "resources/index.html#blogs",
-    "title": "Resources",
-    "section": "Blogs",
-    "text": "Blogs\n\nDynamic Ecology by Jeremy Fox et al.\nReflections on Papers Past by Hari Sridhar\nPublishable Stuff by Rasmus Bååth"
-  },
-  {
-    "objectID": "resources/index.html#statistics-data-science",
-    "href": "resources/index.html#statistics-data-science",
-    "title": "Resources",
-    "section": "Statistics & data science",
-    "text": "Statistics & data science\n\nBooks\n\nStatistical Rethinking by Richard McElreath\nStatistical Rethinking with brms, ggplot2, and the tidyverse by Solomon Kurz\nBayesian Data Analysis by Andrew Gelman et al.\nBayesian Data Analysis in Ecology with R and Stan by Fränzi Korner-Nievergelt et al.\nAn Introduction to Bayesian Thinking by Merlise Clyde et al.\nAn Introduction to Hierarchical Modeling by Michael Freeman\nCausal Inference in R by Malcolm Barrett et al.\nApplied Machine Learning Using mlr3 in R by Bernd Bischl et al.\n\n\n\nWebsites\n\nProbability Distribution Explorer by Justin Bois\nA Visual Introduction to Hierarchical Models by Michael Freeman\nSeeing Theory by Daniel Kunin et al.\nSoftware Carpentry by The Carpentries\nData Carpentry by The Carpentries\nUpdating Data by Weecology\nBest Practices for Data Visualisation by the Royal Statistical Society\nReal World Data Science by the Royal Statistical Society\nEarth Data Science by Earth Lab\n\n\n\nPosts\n\nThe Bayesian Counterpart of Pearson’s Correlation Test by Rasmus Bååth\nThe Non-parametric Bootstrap as a Bayesian Model by Rasmus Bååth\nBayesian robust correlation with Stan in R by Adrian Baez-Ortega"
-  },
-  {
-    "objectID": "resources/index.html#geospatial",
-    "href": "resources/index.html#geospatial",
-    "title": "Resources",
-    "section": "Geospatial",
-    "text": "Geospatial\n\nSpatial Data Science with Applications in R by Edzer Pebesma & Roger Bivand\nSpatial Data Science with R and “terra” by Robert Hijmans et al."
-  },
-  {
-    "objectID": "resources/index.html#r",
-    "href": "resources/index.html#r",
-    "title": "Resources",
-    "section": "R",
-    "text": "R\n\nThe R Manuals by the R Development Core Team\nBig Book of R by Oscar Baruffa\nR Weekly by R Weekly\nswirl: Learn R, in R by Team swirl\nggplot2: Elegant Graphics for Data Analysis (3e) by Hadley Wickham et al.\nR for Data Science (2e) by Hadley Wickham et al.\nMastering Shiny by Hadley Wickham\nEngineering Production-Grade Shiny Apps by Colin Fay et al.\nshinyapps.io User Guide by shinyapps.io Team\nR Packages (2e) by Hadley Wickham & Jennifer Bryan\nLicensing R by Colin Fay\nAdvanced R (2e) by Hadley Wickham\nThe tidyverse Style Guide by Hadley Wickham\nPosit Cheatsheets by Posit\nR Color Palettes by Emil Hvitfeldt\nR Color Cheatsheet by NCEAS\nAwesome ggplot2 by Erik Gahner Larsen et al."
-  },
-  {
-    "objectID": "resources/index.html#remote-sensing",
-    "href": "resources/index.html#remote-sensing",
-    "title": "Resources",
-    "section": "Remote sensing",
-    "text": "Remote sensing\n\nApplied Remote Sensing Program (ARSET) by NASA"
-  },
-  {
-    "objectID": "resources/index.html#reproducible-research",
-    "href": "resources/index.html#reproducible-research",
-    "title": "Resources",
-    "section": "Reproducible research",
-    "text": "Reproducible research\n\nQuarto Guide by Posit\nR Markdown: The Definitive Guide by Yihui Xie et al.\nR Markdown Cookbook by Yihui Xie et al.\nR Markdown for writing reproducible scientific papers by Mike Frank & Chris Hartgerink\nAcademic publications with R Markdown by Dan Ovando\nThe Plain Person’s Guide to Plain Text Social Science by Kieran Healy\nMetadata and describing data by Cornell Data Services\nGuide to writing “readme” style metadata by Cornell Data Services"
-  },
-  {
-    "objectID": "resources/index.html#web-development",
-    "href": "resources/index.html#web-development",
-    "title": "Resources",
-    "section": "Web development",
-    "text": "Web development\n\nCreating your personal website using Quarto by Sam Csik\nCustomizing Quarto websites by Sam Csik\nAdding a blog to your existing Quarto website by Sam Csik"
   }
 ]

@@ -6,13 +6,17 @@ This repo contains the source code for my personal website built with [Quarto](h
 
 ## License
 
-All non-code content is licensed under a [CC BY 4.0 License](https://github.com/kthayashi/kthayashi.github.io/blob/main/LICENSE), unless otherwise specified. All original code is licensed under the [MIT License](https://github.com/kthayashi/kthayashi.github.io/blob/main/LICENSE-CODE).
-
-This website also contains and/or uses code from external libraries, including:
-
-- [Font Awesome Extension for Quarto](https://github.com/quarto-ext/fontawesome) - [MIT License](https://github.com/quarto-ext/fontawesome/blob/main/LICENSE)
+All non-code content is licensed under the [CC BY 4.0 License](https://github.com/kthayashi/kthayashi.github.io/blob/main/LICENSE), unless otherwise specified. All original code is licensed under the [MIT License](https://github.com/kthayashi/kthayashi.github.io/blob/main/LICENSE-CODE).
 
 ## Acknowledgments
 
-- The official [Quarto guide](https://quarto.org/docs/guide/) and Sam Csik's [tutorial](https://ucsb-meds.github.io/creating-quarto-websites/) on creating a website using Quarto were both very helpful for getting started building this website.
-- The format of the Publications page was inspired by [Drew Dimmery's setup](https://ddimmery.com/posts/quarto-website/) and the [Wowchemy Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic).
+This website is built with:
+
+-   [Quarto](https://quarto.org/) ([MIT License](https://github.com/quarto-dev/quarto-cli/blob/main/COPYRIGHT))
+-   [Font Awesome Extension for Quarto](https://github.com/quarto-ext/fontawesome) ([MIT License](https://github.com/quarto-ext/fontawesome/blob/main/LICENSE))
+
+Parts of this website take inspiration from:
+
+-   [Sam Csik](https://ucsb-meds.github.io/creating-quarto-websites/)
+-   [Drew Dimmery](https://ddimmery.com/posts/quarto-website/)
+-   [Wowchemy Hugo Academic CV Theme](https://github.com/wowchemy/starter-hugo-academic)

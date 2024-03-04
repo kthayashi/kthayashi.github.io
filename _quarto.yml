@@ -2,38 +2,36 @@ project:
   type: website
   output-dir: docs
   resources:
-    - "assets/pdf/Kenji-Hayashi-CV.pdf"
+    - assets/pdf/Kenji-Hayashi-CV.pdf
 
 website:
   title: Kenji Hayashi
+  site-url: https://kthayashi.github.io/
   navbar:
     tools:
       - icon: github
         menu:
           - text: Source code
-            url: "https://github.com/kthayashi/kthayashi.github.io"
+            url: https://github.com/kthayashi/kthayashi.github.io
           - text: Report an issue
-            url: "https://github.com/kthayashi/kthayashi.github.io/issues"
+            url: https://github.com/kthayashi/kthayashi.github.io/issues
     left:
-      - href: "index.qmd"
+      - href: index.qmd
         text: About
-      - href: "research/index.qmd"
+      - href: research.qmd
         text: Research
-      - href: "publications/index.qmd"
+      - href: publications.qmd
         text: Publications
-      - href: "resources/index.qmd"
-        text: Resources
   page-footer:
-    center: "© 2023 Kenji Hayashi | [License](https://github.com/kthayashi/kthayashi.github.io#license) | Built with [Quarto](https://quarto.org/)"
-  site-url: "https://kthayashi.github.io/"
+    center: "© 2024 Kenji Hayashi | [License](https://github.com/kthayashi/kthayashi.github.io#license) | Built with [Quarto](https://quarto.org/)"
   twitter-card:
     description: Personal website for Kenji Hayashi, PhD candidate in Ecology and Evolutionary Biology at UCLA
-    image: "assets/img/lasthenia-californica.jpg"
-    image-alt: "Lasthenia californica"
+    image: assets/img/lasthenia-californica.jpg
+    image-alt: Photo of Lasthenia californica
   open-graph:
     description: Personal website for Kenji Hayashi, PhD candidate in Ecology and Evolutionary Biology at UCLA
-    image: "assets/img/lasthenia-californica.jpg"
-    image-alt: "Lasthenia californica"
+    image: assets/img/lasthenia-californica.jpg
+    image-alt: Photo of Lasthenia californica
 
 format:
   html:

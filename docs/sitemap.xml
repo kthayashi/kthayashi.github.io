@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://kthayashi.github.io/publications.html</loc>
+    <lastmod>2024-03-04T17:38:22.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kthayashi.github.io/research.html</loc>
+    <lastmod>2024-03-04T17:49:08.286Z</lastmod>
+  </url>
+  <url>
     <loc>https://kthayashi.github.io/index.html</loc>
-    <lastmod>2023-10-05T18:42:52.814Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kthayashi.github.io/publications/index.html</loc>
-    <lastmod>2023-10-05T18:42:44.694Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kthayashi.github.io/research/index.html</loc>
-    <lastmod>2023-10-05T18:42:43.501Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kthayashi.github.io/resources/index.html</loc>
-    <lastmod>2023-10-05T18:42:45.128Z</lastmod>
+    <lastmod>2024-03-04T18:25:15.499Z</lastmod>
   </url>
 </urlset>

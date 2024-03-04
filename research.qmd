@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: Research
 ---
 
 ::::::{layout="[50, 50]"}
@@ -10,14 +10,14 @@ Plant communities can house remarkable biodiversity, but how do all these plant 
 :::
 :::{}
 <br>
-![](../assets/img/sedgwick-community.jpg)
+![](assets/img/sedgwick-community.jpg)
 :::
 ::::::
 
 ::::::{layout="[50, 50]"}
 :::{}
 <br>
-![](../assets/img/sedgwick-landscape.jpg)
+![](assets/img/sedgwick-landscape.jpg)
 :::
 :::{}
 ### Species distributions
@@ -34,14 +34,14 @@ Plant species' ecological strategies are reflected in their functional traits. C
 :::
 :::{}
 <br>
-![](../assets/img/lasthenia-californica.jpg)
+![](assets/img/lasthenia-californica.jpg)
 :::
 ::::::
 
 ::::::{layout="[50, 50]"}
 :::{}
 <br>
-![](../assets/img/ecoevoapps-mutualism.jpg)
+![](assets/img/ecoevoapps-mutualism.jpg)
 :::
 :::{}
 ### Ecology education
