@@ -1,10 +1,13 @@
 /*-- scss:defaults --*/
 
 $navbar-fg: rgb(255, 255, 255);
-$navbar-hover: rgba(255, 255, 255, 0.8);
+$navbar-hover: rgb(220, 220, 220);
+
+$navbar-hover-transition: 0.2s ease-in-out;
 
 /*-- scss:rules --*/
 
+/* publication link buttons */
 .publink {
   text-decoration: none;
   font-size: 0.8em;
@@ -15,29 +18,41 @@ $navbar-hover: rgba(255, 255, 255, 0.8);
   box-sizing: border-box;
 }
 
-footer.footer .nav-footer, #quarto-header > nav {
+/* navigation bar: title */
+.navbar-brand {
+  font-weight: bold;
+}
+
+/* navigation bar: active item */
+.navbar-nav .nav-link.active {
+  color: $link-color;
+}
+
+/* navigation bar: item hover */
+.nav-link:hover {
+  color: $navbar-hover;
+  transition: $navbar-hover-transition;
+}
+
+/* navigation bar: tool hover */
+.navbar .quarto-navbar-tools .quarto-navigation-tool:hover {
+  color: $navbar-hover;
+  transition: $navbar-hover-transition;
+}
+
+/* navigation bar: search hover */
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon:hover {
+  color: $navbar-hover;
+  transition: $navbar-hover-transition;
+}
+
+/* footer */
+footer.footer .nav-footer {
   padding-left: 2em;
   padding-right: 2em;
 }
 
-.navbar-dark .navbar-brand {
-  font-weight: bold;
-}
-
-.navbar-dark .navbar-nav .nav-link.active {
-  color: $link-color;
-}
-
-.navbar-dark .quarto-navbar-tools .quarto-navigation-tool:hover {
-  color: $navbar-hover;
-  transition: 0.15s ease-in-out;
-}
-
-.navbar-dark #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon:hover {
-  color: $navbar-hover;
-  transition: 0.15s ease-in-out;
-}
-
+/* footer: link hover */
 .nav-footer a:hover {
   color: $link-color;
 }
