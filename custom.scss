@@ -1,22 +1,10 @@
 /*-- scss:defaults --*/
 
 $navbar-fg: rgb(255, 255, 255);
-$navbar-hover: rgb(220, 220, 220);
-
+$navbar-hover: rgb(200, 200, 200);
 $navbar-hover-transition: 0.2s ease-in-out;
 
 /*-- scss:rules --*/
-
-/* publication link buttons */
-.publink {
-  text-decoration: none;
-  font-size: 0.8em;
-  padding: 0.25em 0.5em;
-  margin-right: 0.5em;
-  border: solid 1px;
-  border-radius: 4px;
-  box-sizing: border-box;
-}
 
 /* navigation bar: title */
 .navbar-brand {
