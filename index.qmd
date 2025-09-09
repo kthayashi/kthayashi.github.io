@@ -1,54 +1,47 @@
 ---
 title: Kenji Hayashi
-subtitle: (he/him/his)
-image: assets/img/headshot.jpg
+image: /assets/img/headshot.jpg
 image-alt: Headshot of Kenji Hayashi
 about:
   template: trestles
   image-shape: rounded
   links:
-    - text: "{{< fa envelope >}} Contact"
-      href: mailto:kthayashi@ucla.edu
-      aria-label: Contact
-    - text: "{{< fa volume-high >}} NameDrop"
-      href: https://namedrop.io/kenjihayashi
-      aria-label: NameDrop
-    - text: "{{< fa regular file-lines >}} CV"
+    - text: "{{< fa envelope >}} Email"
+      href: mailto:kenji.hayashi@rice.edu
+      aria-label: Email
+    - text: "{{< fa file-lines >}} CV"
       href: https://raw.githubusercontent.com/kthayashi/cv/main/Kenji-Hayashi-CV.pdf
       aria-label: CV
-    - text: "{{< fa brands google >}} Google Scholar"
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=EQaU-9wAAAAJ
       aria-label: Google Scholar
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0000-0002-7598-1865
       aria-label: ORCID
-    - text: "{{< fa brands linkedin >}} LinkedIn"
-      href: https://www.linkedin.com/in/kthayashi
-      aria-label: LinkedIn
     - text: "{{< fa brands github >}} GitHub"
       href: https://github.com/kthayashi
       aria-label: GitHub
-    - text: "{{< fa brands gitlab >}} GitLab"
-      href: https://gitlab.com/kthayashi
-      aria-label: GitLab
-twitter-card:
-  image: assets/img/lasthenia-californica.jpg
-  image-alt: Photo of Lasthenia californica
+    - text: "{{< fa brands linkedin >}} LinkedIn"
+      href: https://www.linkedin.com/in/kthayashi
+      aria-label: LinkedIn
 open-graph:
-  image: assets/img/lasthenia-californica.jpg
-  image-alt: Photo of Lasthenia californica
+  image: /assets/img/lasthenia-californica.jpg
+  image-alt: A photo of Lasthenia californica
 ---
 
 ## Greetings!
 
-My name is Kenji Hayashi - I'm a PhD candidate in the Department of Ecology and Evolutionary Biology at the University of California, Los Angeles.
+I'm an ecologist striving to understand and predict the dynamics of plant populations, communities, and distributions. I'm also passionate about data science and evidence-based STEM education. I'm currently a Postdoctoral Associate working with Dr. Tom Miller in the Department of BioSciences at Rice University.
 
-I'm a plant community ecologist and data scientist striving to understand the dynamics governing plant communities and distributions. I'm also passionate about R, statistics, open/reproducible science, and evidence-based approaches to STEM education.
+### Positions
+
+**Postdoctoral Associate** \| 2025--Present\
+Department of BioSciences, Rice University
 
 ### Education
 
-**PhD in Ecology & Evolutionary Biology** | 2018 - Present  
+**Ph.D. in Biology** \| 2018--Present\
 University of California, Los Angeles
 
-**BS in Biology** | 2014 - 2018  
+**B.S. in Biology** \| 2014--2018\
 Brown University

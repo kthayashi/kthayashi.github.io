@@ -1,38 +1,27 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - assets/pdf/Kenji-Hayashi-CV.pdf
-
 website:
   title: Kenji Hayashi
-  site-url: https://kthayashi.github.io/
+  description: >
+    Personal website for Kenji Hayashi, Postdoctoral Associate in BioSciences
+    at Rice University
+  site-url: https://kthayashi.github.io
   navbar:
-    tools:
-      - icon: github
-        menu:
-          - text: Source code
-            url: https://github.com/kthayashi/kthayashi.github.io
-          - text: Report an issue
-            url: https://github.com/kthayashi/kthayashi.github.io/issues
     left:
-      - href: index.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: publications.qmd
         text: Publications
   page-footer:
-    center: "© 2024 Kenji Hayashi | [License](https://github.com/kthayashi/kthayashi.github.io#license) | Built with [Quarto](https://quarto.org/)"
-  twitter-card:
-    description: Personal website for Kenji Hayashi, PhD candidate in Ecology and Evolutionary Biology at UCLA
-    image: assets/img/lasthenia-californica.jpg
-    image-alt: Photo of Lasthenia californica
+    center: |
+      © 2025 Kenji Hayashi.
+      [Some rights reserved](https://github.com/kthayashi/kthayashi.github.io).  
+      Built with [Quarto](https://quarto.org).
   open-graph:
-    description: Personal website for Kenji Hayashi, PhD candidate in Ecology and Evolutionary Biology at UCLA
-    image: assets/img/lasthenia-californica.jpg
-    image-alt: Photo of Lasthenia californica
-
+    image: /assets/img/lasthenia-californica.jpg
+    image-alt: A photo of Lasthenia californica
+    locale: en
 format:
   html:
     theme:

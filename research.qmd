@@ -2,50 +2,66 @@
 title: Research
 ---
 
-::::::{layout="[50, 50]"}
-:::{}
+::::: {layout="[50, 50]"}
+<div>
+
 ### Species coexistence
 
-Plant communities can house remarkable biodiversity, but how do all these plant species coexist? In particular, what is the role of spatial environmental variation in promoting coexistence? What are the potential consequences of environmental change for these coexistence-promoting mechanisms? I tackle these questions through field and greenhouse experiments tightly coupled with ecological theory.
-:::
-:::{}
-<br>
-![](assets/img/sedgwick-community.jpg)
-:::
-::::::
+Plant communities are home to remarkable biodiversity, but how do all these plant species coexist? In particular, what is the role of spatial environmental variation in promoting coexistence? Additionally, what are the potential consequences of environmental change for coexistence-promoting mechanisms? I tackle these questions through field and greenhouse experiments tightly coupled with ecological theory.
 
-::::::{layout="[50, 50]"}
-:::{}
-<br>
-![](assets/img/sedgwick-landscape.jpg)
-:::
-:::{}
+</div>
+
+<div>
+
+<br> ![](/assets/img/sedgwick-community.jpg){fig-alt="A photo of a plant community at Sedgwick Reserve"}
+
+</div>
+:::::
+
+::::: {layout="[50, 50]"}
+<div>
+
+<br> ![](/assets/img/sedgwick-landscape.jpg){fig-alt="A photo of the landscape at Sedgwick Reserve"}
+
+</div>
+
+<div>
+
 ### Species distributions
 
-For a species to persist in a given location, it needs to withstand the environmental conditions there amidst interactions with other species in the community. Then, when and how do species interactions play a significant role in shaping species distributions? My research aims to build up this understanding from the first principles of demography and population dynamics in a community context.
-:::
-::::::
+For a species to persist in an area, it must withstand the environmental conditions there amidst interactions with other species in the community. With this in mind, when and how do species interactions play a critical role in shaping where species occur? My research aims to build up an understanding of current and future species distributions from the first principles of demography and population dynamics.
 
-::::::{layout="[50, 50]"}
-:::{}
+</div>
+:::::
+
+::::: {layout="[50, 50]"}
+<div>
+
 ### Functional traits
 
-Plant species' ecological strategies are reflected in their functional traits. Can these traits be used to predict the demography, and in turn the (co-)occurrence patterns, of many species across environmental gradients? I am exploring this question both at the landscape scale using community surveys and at the geographic scale using botanical big data.
-:::
-:::{}
-<br>
-![](assets/img/lasthenia-californica.jpg)
-:::
-::::::
+Plant species' ecological strategies are reflected in their functional (morphological, physiological, or phenological) traits. Can these traits be used to predict the demography, and in turn the (co-)occurrence patterns, of many species across environmental gradients? I am exploring this question both at the landscape scale using community surveys and at the geographic scale using botanical big data.
 
-::::::{layout="[50, 50]"}
-:::{}
-<br>
-![](assets/img/ecoevoapps-mutualism.jpg)
-:::
-:::{}
+</div>
+
+<div>
+
+<br> ![](/assets/img/lasthenia-californica.jpg){fig-alt="A photo of Lasthenia californica"}
+
+</div>
+:::::
+
+::::: {layout="[50, 50]"}
+<div>
+
+<br> ![](/assets/img/ecoevoapps-mutualism.jpg){fig-alt="A screenshot of the EcoEvoApps mutualism app"}
+
+</div>
+
+<div>
+
 ### Ecology education
 
-Ecology education has a crucial role to play in our world that is increasingly impacted by anthropogenic environmental change. How can we better help students learn important concepts in ecology, especially quantitative ones? I am involved in the development of [EcoEvoApps](https://ecoevoapps.gitlab.io), a collection of interactive web apps for theoretical models in ecology and evolution, and am actively exploring how such tools can enhance more traditional approaches to ecology education.
-:::
-::::::
+Ecologists have a crucial role to play in broadening understanding and appreciation of the natural world, which is increasingly impacted by human activity. Yet, many foundational concepts in ecology are built upon quantitative theory. In an effort to bridge this gap, I am involved in the development of [EcoEvoApps](https://ecoevoapps.gitlab.io), a collection of interactive apps for theoretical models in ecology and evolution. I am actively exploring how such tools can be leveraged to enhance ecology education.
+
+</div>
+:::::
