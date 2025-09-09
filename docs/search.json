@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "data-code.html",
+    "href": "data-code.html",
+    "title": "Data & Code",
     "section": "",
-    "text": "* indicates equal contribution\n\n\n\nHayashi, K. T., & Kraft, N. J. B. (2025). Competition contributes to quantitative mismatches between plant fitness and occurrence along environmental gradients. Journal of Ecology, 113(9), 2590–2602. https://doi.org/10.1111/1365-2745.70115\n\n\n\n\n\nMcGuire, R. M.*, Hayashi, K. T.*, Yan, X.*, Caritá Vaz, M., Cinoğlu, D., Cowen, M. C., Martínez-Blancas, A., Sullivan, L. L., Vazquez-Morales, S., & Kandlikar, G. S. (2022). EcoEvoApps: Interactive apps for theoretical models in ecology and evolutionary biology. Ecology and Evolution, 12(12), e9556. https://doi.org/10.1002/ece3.9556\n\n\n\n\n\nMiller, E. C., Hayashi, K. T., Song, D., & Wiens, J. J. (2018). Explaining the ocean’s richest biodiversity hotspot and global patterns of fish diversity. Proceedings of the Royal Society B: Biological Sciences, 285(1888), 20181314. https://doi.org/10.1098/rspb.2018.1314\nFeatured in The New York Times"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Species coexistence\nPlant communities are home to remarkable biodiversity, but how do all these plant species coexist? In particular, what is the role of spatial environmental variation in promoting coexistence? Additionally, what are the potential consequences of environmental change for coexistence-promoting mechanisms? I tackle these questions through field and greenhouse experiments tightly coupled with ecological theory.\n\n\n \n\n\n\n\n\n\n \n\n\nSpecies distributions\nFor a species to persist in an area, it must withstand the environmental conditions there amidst interactions with other species in the community. With this in mind, when and how do species interactions play a critical role in shaping where species occur? My research aims to build up an understanding of current and future species distributions from the first principles of demography and population dynamics.\n\n\n\n\n\n\nFunctional traits\nPlant species’ ecological strategies are reflected in their functional (morphological, physiological, or phenological) traits. Can these traits be used to predict the demography, and in turn the (co-)occurrence patterns, of many species across environmental gradients? I am exploring this question both at the landscape scale using community surveys and at the geographic scale using botanical big data.\n\n\n \n\n\n\n\n\n\n \n\n\nEcology education\nEcologists have a crucial role to play in broadening understanding and appreciation of the natural world, which is increasingly impacted by human activity. Yet, many foundational concepts in ecology are built upon quantitative theory. In an effort to bridge this gap, I am involved in the development of EcoEvoApps, a collection of interactive apps for theoretical models in ecology and evolution. I am actively exploring how such tools can be leveraged to enhance ecology education."
+    "text": "Hayashi, K. T., & Kraft, N. J. B. (2025). Data and code for “Competition contributes to quantitative mismatches between plant fitness and occurrence along environmental gradients” [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.12978683\nAlso on GitHub\n\n\n\n\nMiller, E. C., Hayashi, K. T., Song, D., & Wiens, J. J. (2018). Supplementary material from “Explaining the ocean’s richest biodiversity hotspot and global patterns of fish diversity” [Dataset]. figshare. https://doi.org/10.6084/m9.figshare.c.4244933.v1"
   },
   {
     "objectID": "index.html",
@@ -26,5 +19,19 @@
     "title": "Kenji Hayashi",
     "section": "",
     "text": "I’m an ecologist striving to understand and predict the dynamics of plant populations, communities, and distributions. I’m also passionate about data science and evidence-based STEM education. I’m currently a Postdoctoral Associate working with Dr. Tom Miller in the Department of BioSciences at Rice University.\n\n\nPostdoctoral Associate | 2025–Present\nDepartment of BioSciences, Rice University\n\n\n\nPh.D. in Biology | 2018–Present\nUniversity of California, Los Angeles\nB.S. in Biology | 2014–2018\nBrown University"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Species coexistence\nPlant communities are home to remarkable biodiversity, but how do all these plant species coexist? In particular, what is the role of spatial environmental variation in promoting coexistence? Additionally, what are the potential consequences of environmental change for coexistence-promoting mechanisms? I tackle these questions through field and greenhouse experiments tightly coupled with ecological theory.\n\n\n \n\n\n\n\n\n\n \n\n\nSpecies distributions\nFor a species to persist in an area, it must withstand the environmental conditions there amidst interactions with other species in the community. With this in mind, when and how do species interactions play a critical role in shaping where species occur? My research aims to build up an understanding of current and future species distributions from the first principles of demography and population dynamics.\n\n\n\n\n\n\nFunctional traits\nPlant species’ ecological strategies are reflected in their functional (morphological, physiological, or phenological) traits. Can these traits be used to predict the demography, and in turn the (co-)occurrence patterns, of many species across environmental gradients? I am exploring this question both at the landscape scale using community surveys and at the geographic scale using botanical big data.\n\n\n \n\n\n\n\n\n\n \n\n\nEcology education\nEcologists have a crucial role to play in broadening understanding and appreciation of the natural world, which is increasingly impacted by human activity. Yet, many foundational concepts in ecology are built upon quantitative theory. In an effort to bridge this gap, I am involved in the development of EcoEvoApps, a collection of interactive apps for theoretical models in ecology and evolution. I am actively exploring how such tools can be leveraged to enhance ecology education."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "* indicates equal contribution\n\n\n\nHayashi, K. T., & Kraft, N. J. B. (2025). Competition contributes to quantitative mismatches between plant fitness and occurrence along environmental gradients. Journal of Ecology, 113(9), 2590–2602. https://doi.org/10.1111/1365-2745.70115\n\n\n\n\n\nMcGuire, R. M.*, Hayashi, K. T.*, Yan, X.*, Caritá Vaz, M., Cinoğlu, D., Cowen, M. C., Martínez-Blancas, A., Sullivan, L. L., Vazquez-Morales, S., & Kandlikar, G. S. (2022). EcoEvoApps: Interactive apps for theoretical models in ecology and evolutionary biology. Ecology and Evolution, 12(12), e9556. https://doi.org/10.1002/ece3.9556\n\n\n\n\n\nMiller, E. C., Hayashi, K. T., Song, D., & Wiens, J. J. (2018). Explaining the ocean’s richest biodiversity hotspot and global patterns of fish diversity. Proceedings of the Royal Society B: Biological Sciences, 285(1888), 20181314. https://doi.org/10.1098/rspb.2018.1314\nFeatured in The New York Times"
   }
 ]

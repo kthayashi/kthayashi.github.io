@@ -13,6 +13,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: data-code.qmd
+        text: Data & Code
   page-footer:
     center: |
       © 2025 Kenji Hayashi.

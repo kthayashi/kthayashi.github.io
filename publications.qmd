@@ -1,5 +1,10 @@
 ---
 title: Publications
+execute: 
+  echo: false
+  message: false
+  warning: false
+  output: asis
 ---
 
 ::: {style="font-size:small;"}
@@ -7,13 +12,14 @@ title: Publications
 :::
 
 ```{r}
-#| echo: false
-#| message: false
-#| warning: false
-#| output: asis
+#| label: setup
 
 library(qmdcv)
 library(yaml)
+```
+
+```{r}
+#| label: publications
 
 publications <- read_yaml("https://raw.githubusercontent.com/kthayashi/cv/refs/heads/main/content/publications.yml")
 insert_publications(publications)

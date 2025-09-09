@@ -1,0 +1,22 @@
+---
+title: Data & Code
+execute:
+  echo: false
+  message: false
+  warning: false
+  output: asis
+---
+
+```{r}
+#| label: setup
+
+library(qmdcv)
+library(yaml)
+```
+
+```{r}
+#| label: data-code
+
+data_code <- read_yaml("assets/yml/data-code.yml")
+insert_data(data_code)
+```
